@@ -7,3 +7,5 @@ def cal_lower(price):
     decrement = price * 0.3
     lower_price = price - decrement
     return lower_price
+
+print("__main__")
